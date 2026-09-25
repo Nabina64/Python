@@ -1,0 +1,8 @@
+nabina,3456,5000.0
+nabinamagar,1234,0
+nabina magar,12345,2000.0
+niya,345345,0
+nabina,3456,5000.0
+nabinamagar,1234,0
+nabina magar,12345,2000.0
+niya,345345,4000.0
