@@ -1,0 +1,4 @@
+nabina,1234,0
+nabinamagar,12345,1500.0
+bilisha,4444,1000.0
+biswas,4567,2000.0
